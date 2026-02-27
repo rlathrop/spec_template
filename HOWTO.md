@@ -10,7 +10,7 @@ This is the actual workflow I use. Not a sanitized version of it. If something h
 
 **The relevant source files.** The sections of the codebase the plan touches. You don't need the whole repo, just enough that Claude can see what actually exists, what the function signatures are, what the existing patterns look like. If you're not sure what's relevant, start with the files the plan mentions and let Claude tell you if it needs more.
 
-**The spec template.** That's `template/spec-template.md` in this repo. Read through it once before you use it so you understand what each section is for. The inline notes explain which sections to cut for simpler phases.
+**The spec template.** That's `template/Agentic_Development_Spec_Template_Generic.md` in this repo. Read through it once before you use it so you understand what each section is for. The inline notes explain which sections to cut for simpler phases.
 
 ---
 
