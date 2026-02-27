@@ -1,0 +1,19 @@
+# macOS specific files
+.DS_Store
+.localized
+.Spotlight-V100/
+.Trashes
+__MACOSX/
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux/Unix specific files
+*~
+*.swp
+.cache/
+
