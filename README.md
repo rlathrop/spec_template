@@ -1,6 +1,6 @@
 # The Spec Is the Control Plane
 
-> **Jump to:** [Spec Template](template/spec-template.md) · [Example Specs](examples/) · [Step-by-Step HOWTO](HOWTO.md)
+> **Jump to:** [Spec Template](template/Agentic_Development_Spec_Template_Generic.md) · [Example Specs](examples/) · [Step-by-Step HOWTO](HOWTO.md)
 
 I transformed a Go CLI security tool into a native desktop application across six implementation phases. Pipeline extraction refactor, OS-native privilege escalation across macOS, Linux, and Windows, a Wails desktop integration, vanilla JS frontend, and a dark theme. A couple days of work. The agent wrote the code. I didn't write most of the specs either — Claude did, from a template I built. But the spec is where the real engineering happens, and that's what this repo is about.
 
